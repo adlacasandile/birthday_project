@@ -6,7 +6,7 @@ public class birth {
 
 	public static void main(String[] args) {
 		
-		int result = recursion(2);
+		int result = recursion(2); //nagbago ka na
 		System.out.println(""+result);
 	}
 	
